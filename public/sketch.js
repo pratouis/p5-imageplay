@@ -1,5 +1,6 @@
+let photo;
 function preload() {
-
+    photo = loadImage('./assets/photo.jpg');
 }
 
 function setup() {
